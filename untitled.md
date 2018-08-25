@@ -16,7 +16,7 @@ https://www.ypcloud.com/download/motebus.zip
 
 ## Install 'MoteBus'
 
-![](.gitbook/assets/motebus_exe_install.png)
+![](.gitbook/assets/exe_install.png)
 
 ![](.gitbook/assets/node_modules_motebus_install.png)
 

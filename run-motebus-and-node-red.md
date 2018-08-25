@@ -14,3 +14,5 @@ description: Run MoteBus and Node-RED
 
 ![](.gitbook/assets/nr_run.png)
 
+![](.gitbook/assets/nr_lh.png)
+

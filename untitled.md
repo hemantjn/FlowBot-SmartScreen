@@ -2,7 +2,7 @@
 description: Download & install MoteBus - MMA Communication Bus
 ---
 
-# Download & Install MoteBus
+# Install MoteBus
 
 ## Download 'Motebus' - MMA Communication Bus
 

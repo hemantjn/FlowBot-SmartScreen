@@ -2,7 +2,7 @@
 description: FlowBot Environment for Windows
 ---
 
-# FlowBot Environment for Windows
+# FlowBot Environment for Windows - Nodejs, NPM & Node-RED
 
 ## Install Node.js \(v8.x LTS\)
 

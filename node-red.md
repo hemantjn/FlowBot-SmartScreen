@@ -2,9 +2,9 @@
 description: Flow-based App Building Tool
 ---
 
-# Node-RED
+# FlowBot
 
-## Node-RED
+## Building Flows using Node-RED
 
 ![](.gitbook/assets/nr_1%20%281%29.png)
 

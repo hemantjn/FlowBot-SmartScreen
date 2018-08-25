@@ -1,3 +1,7 @@
+---
+description: Run MoteBus and Node-RED
+---
+
 # Run MoteBus and Node-RED
 
 ## Run 'MoteBus'

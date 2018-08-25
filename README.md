@@ -1,2 +1,2 @@
-# FlowBot-SmartScreen
+# Initial page
 

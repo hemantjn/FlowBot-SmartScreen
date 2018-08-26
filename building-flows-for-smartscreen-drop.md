@@ -22,9 +22,7 @@ Also shown above are the _marquee_ function as well as a _second URL_ pushed to 
 
 
 
-
-
-A _SlideShow_ of online Videos, _four_ in all, _each played for 2 mins_, with the show being _repeated_
+A _SlideShow_ of _online Videos_, _four_ in all, _each_ played for _2 mins_, with the show being _repeated_
 
 ![](.gitbook/assets/nr_fn_drop_ss1.png)
 

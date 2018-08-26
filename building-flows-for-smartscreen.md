@@ -20,5 +20,9 @@ Configure NR standard input node, _inject,_ to define the _Msg\_PayLoad_ \(to be
 
 ![](.gitbook/assets/nr_timestamp.png)
 
+_Deploying_ your _flow_
 
+![](.gitbook/assets/nr_flow_deploy_1.png)
+
+![](.gitbook/assets/nr_flow_deploy_2.png)
 

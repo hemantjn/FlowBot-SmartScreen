@@ -4,7 +4,7 @@ description: Download & install MoteBus - MMA Communication Bus
 
 # Install MoteBus
 
-## Download 'Motebus' - MMA Communication Bus
+## Download _'Motebus'_ - MMA Communication Bus
 
 ```text
 https://www.ypcloud.com/download/motebus.zip

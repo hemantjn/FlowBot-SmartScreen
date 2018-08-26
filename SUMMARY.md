@@ -9,4 +9,5 @@
 * [Building Flows for SmartScreen - 'marquee'](building-flows-for-smartscreen.md)
 * [Building Flows for SmartScreen - 'drop'](building-flows-for-smartscreen-drop.md)
 * [Saving Flows and Functions](saving-flows-and-functions.md)
+* [SmartScreen Settings & Console](smartscreen-settings-and-console.md)
 

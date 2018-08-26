@@ -6,5 +6,5 @@ description: FlowBot
 
 ## FlowBot - Flow-based App Building Tool
 
-![](.gitbook/assets/ppt_logo_-14.png)
+![](.gitbook/assets/ppt_logo_-14%20%281%29.png)
 

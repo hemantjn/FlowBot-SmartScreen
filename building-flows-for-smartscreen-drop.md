@@ -16,7 +16,7 @@ Individual _URL_ on to __SS _frame \#2_
 
 See the _URL_ dropped on _frame \#2_ of SS
 
-![](.gitbook/assets/4_in_1_marq.png)
+![](.gitbook/assets/nr_ss_5_in_1.png)
 
 Also shown above are the _marquee_ function as well as a _second URL_ pushed to _frame \#3_ while texts pushed to _frame \#1_ and _4..._go ahead & try it for yourself!
 
